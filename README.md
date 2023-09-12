@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhpro15&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="mhpro15" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhpro15&show_icons=true&bg_color=ffffff&locale=en" alt="mhpro15" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhpro15&theme=highcontrast" alt="mhpro15" /></p>
 
