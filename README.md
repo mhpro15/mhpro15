@@ -1,4 +1,4 @@
-<div  align="center">
+<div theme="default" align="center">
 <h1 align="center">Hi 👋, I'm Hung Nguyen</h1>
 <h3 align="center">A student looking for internship/co-op Winter 2024 in Software Development</h3>
 <img width="500" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" alt="banner">
