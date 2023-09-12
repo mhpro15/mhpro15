@@ -20,6 +20,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhpro15&theme=highcontrast" alt="mhpro15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhpro15&theme=highcontrast&bg_color=ffffff" alt="mhpro15" /></p>
 
 </div>
