@@ -1,4 +1,4 @@
-<div style="background-color:white">
+<div backgroundColor="white">
 <h1 align="center">Hi 👋, I'm Hung Nguyen</h1>
 <h3 align="center">A student looking for internship/co-op Winter 2024 in Software Development</h3>
 
