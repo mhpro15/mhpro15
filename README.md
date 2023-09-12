@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://manhhung.app](https://manhhung.app)
 
-- 📄 Know about my experiences [https://manhhung.app](https://manhhung.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
