@@ -14,6 +14,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhpro15&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="mhpro15" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhpro15&theme=merko" alt="mhpro15" /></p>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhpro15&border_radius=4.9)](https://git.io/streak-stats)
