@@ -14,6 +14,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhpro15&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="mhpro15" /></p>
-<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhpro15)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhpro15)](https://git.io/streak-stats)
 
 </div>
