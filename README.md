@@ -1,6 +1,6 @@
 <div data-color-mode="light" align="center">
 <h1 align="center">Hi 👋, I'm Hung Nguyen</h1>
-<h3 align="center">A student looking for internship/co-op Winter 2025 in Software Development</h3>
+<h3 align="center">Looking for Full-time Position starting from Winter 2025 in Software Development</h3>
 <img width="500" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" alt="banner">
 
 
