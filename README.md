@@ -5,8 +5,7 @@
 
 
 <h3>👨‍💻 All of my projects are available at https://manhhung.app</h3>
-<a href="https://www.producthunt.com/@mhpro15/submitted">Find me on product hunt</a>
-<a href="https://www.producthunt.com/@mhpro15/submitted" target="_blank" rel="noopener noreferrer"><img alt="Womoo - World Mood Logger | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1053375&amp;theme=light&amp;t=1766451077804"></a>
+<a href="https://www.producthunt.com/@mhpro15/submitted" target="_blank" rel="noopener noreferrer"><img alt="Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1053375&amp;theme=light&amp;t=1766451077804"></a>
 <p>I'm open for any new collaboration, send me a request!</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
